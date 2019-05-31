@@ -1,0 +1,2 @@
+# noteindexer
+Word Notes Indexer
